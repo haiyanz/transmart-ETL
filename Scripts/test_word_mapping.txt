@@ -1,0 +1,4 @@
+Filename	Column Number	Original Data Value 	New Data Value
+test_clinical.txt	3	F	Female
+test_clinical.txt	3	M	Male
+test_clinical.txt	4	Unknown	.
