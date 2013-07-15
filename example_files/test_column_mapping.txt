@@ -1,0 +1,8 @@
+Filename        Category Code   Column Number   Data Label      Data Label Source       Controlled Vocab Code   Data Value Source       Preserve Nulls
+test_clinical.txt		1	SUBJ_ID
+test_clinical.txt	Subjects      3	Sex
+test_clinical.txt	Subjects      5	Age                     
+test_clinical.txt	Clinical_Trial_Data+Laboratory_Test	6	DATA_LABEL
+test_clinical.txt	Clinical_Trial_Data+Laboratory_Test	7	DATA_LABEL
+test_clinical.txt	Clinical_Trial_Data+Laboratory_Test	8	\	6;7
+
